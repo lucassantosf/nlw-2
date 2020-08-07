@@ -10,7 +10,11 @@ E assim, os alunos entram em contato através da aplicação mobile, desenvolvid
 
 # Requisitos de ambiente
 
--[Node.js](https://nodejs.org/) + NPM -[Yarn](https://yarnpkg.com/) - alternativa ao NPM para gerenciamento de dependências -[Expo](https://yarnpkg.com/) - para visualização do projeto mobile em react native
+-[Node.js](https://nodejs.org/) + NPM 
+
+-[Yarn](https://yarnpkg.com/) - alternativa ao NPM para gerenciamento de dependências
+
+-[Expo](https://yarnpkg.com/) - para visualização do projeto mobile em react native
 
 # Como instalar e utilizar
 
